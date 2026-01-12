@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ali Mustafa Siddiqui
 
-**Python Developer** | **Self taught** 
+**Developer** | **Self taught** 
 
 ---
 
