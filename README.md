@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![micro:bit](https://img.shields.io/badge/-micro%3Abit-black?logo=microbit)
 
 ---
 
